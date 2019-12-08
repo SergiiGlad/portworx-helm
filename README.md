@@ -1,6 +1,6 @@
 # Introducing the Portworx Software-Defined Storage Solution
 
-https://www.ibm.com/cloud/blog/announcements/introducing-the-portworx-software-defined-storage-solution
+<https://www.ibm.com/cloud/blog/announcements/introducing-the-portworx-software-defined-storage-solution>
 
 ---
 ## Portworx cluster after deployed
